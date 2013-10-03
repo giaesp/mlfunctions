@@ -11,7 +11,7 @@
 %            - err = 0 <==> Non si sono verificati errori
 %            - err = 1 <==> Il numero di iterazioni impostato è risultato insufficiente
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [lamb,iter,err] = avqr(A,max_iter)
 

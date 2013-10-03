@@ -13,7 +13,7 @@
 %            graphic_mode = 1 <==> Stampa a video il grafico degli errori/iterazione
 % Output:    Il vettore soluzione x
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,iter,err] = sjacobi(A,b,x,toll,max_iter,verbose_mode,graphic_mode)
 

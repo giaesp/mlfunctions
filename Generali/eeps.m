@@ -6,7 +6,7 @@
 % Input:     -
 % Output:    La precisione di macchina
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function x = eeps()
 

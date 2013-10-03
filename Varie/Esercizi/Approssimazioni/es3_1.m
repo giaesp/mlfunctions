@@ -5,7 +5,7 @@
 % seguente insieme di nodi:
 % xi = -1 + 2i/n-1,    i = 0,1,...,n-1    n = 5, 10, 20
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 func = inline('1/(25*x^2 + 1)');
 xb = -1;

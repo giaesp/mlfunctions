@@ -7,7 +7,7 @@
 % Input:     La matrice dei coefficienti A
 % Output:    Il valore ottimale del parametro w
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function w = wopt_brute(A)
 

@@ -24,7 +24,7 @@
 %                           in quel punto la funzione assume un valore in modulo
 %                           superiore alla tolleranza richiesta
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,iter,err] = tangrm(f,d1,d2,x1,int_toll,zero_toll,max_iter,v_mode,g_mode)
 

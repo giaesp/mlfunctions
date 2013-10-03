@@ -3,7 +3,7 @@
 % Trovare il polinomio di grado 3 passante per il punto (0,10) con coefficiente angolare
 % della retta tangente uguale a 1, e per i punti (1,15) e (2,5).
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 clear;
 hold on;

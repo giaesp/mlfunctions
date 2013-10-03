@@ -23,7 +23,7 @@
 %            Il reale lamb
 % Output:    Il numero di autovalori alla destra di lamb
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function numav = howmanyav(A,lamb)
 

@@ -7,7 +7,7 @@
 % Output:    Il vettore dei nodi x
 %            Il vettore dei pesi w 
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,w] = zplege(n)
 

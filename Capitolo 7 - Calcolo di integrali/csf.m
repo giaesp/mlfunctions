@@ -15,7 +15,7 @@
 %               err = 0 <==> Non si sono verificati errori
 %               err = 1 <==> Iterazioni impostate insufficienti
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [integr,eval,i,err] = csf(f,a,b,toll,max_iter)
 

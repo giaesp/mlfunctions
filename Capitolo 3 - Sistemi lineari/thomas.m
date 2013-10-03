@@ -9,7 +9,7 @@
 % Output:    Il vettore soluzione x
 %            Le matrici L ed U tali che A = LU
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,L,U] = thomas(A,b)
 

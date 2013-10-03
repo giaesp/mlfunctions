@@ -8,7 +8,7 @@
 %               La tolleranza richiesta, toll
 % Output:       Il vettore degli autovalori, av
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function av = bisezav(A,a,b,toll)
 

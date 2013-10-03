@@ -7,7 +7,7 @@
 %            Il vettore b dei termini noti
 % Output:    Il vettore soluzione x
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x] = triup(A,b)
 

@@ -8,7 +8,7 @@
 % Output:    Restituisce 1 (TRUE) se la matrice è simmetrica definita positiva
 %            Restituisce 0 (FALSE) se la matrice non è simmetrica definita positiva
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function bool = sylvester(A)
 

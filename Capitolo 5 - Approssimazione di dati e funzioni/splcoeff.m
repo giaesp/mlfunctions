@@ -9,7 +9,7 @@
 %
 % Prototipo: z = splcoeff(n,x,y)
 % 
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function z = splcoeff(n,x,y)
 

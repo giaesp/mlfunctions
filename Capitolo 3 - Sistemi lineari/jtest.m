@@ -11,7 +11,7 @@
 %            Restituisce bool = 0 (FALSE) se il metodo non converge. In questo caso
 %            il valore iter restituito è 0.
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [bool,iter] = jtest(A,m)
 

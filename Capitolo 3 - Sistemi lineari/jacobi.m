@@ -18,7 +18,7 @@
 %            - err = 1 <==> Non è stata raggiunta l'accuratezza richiesta
 %            - err = 0 <==> Non si sono verificati errori
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,iter,err] = jacobi(A,b,x,toll,max_iter,verbose_mode,graphic_mode)
 

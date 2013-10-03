@@ -14,7 +14,7 @@
 % Output:    Il vettore f contenente la diagonale della tavola delle differenze 
 %            divise
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [f] = dder(x,f,d)
 

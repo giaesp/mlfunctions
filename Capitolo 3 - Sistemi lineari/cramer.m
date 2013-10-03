@@ -8,7 +8,7 @@
 %            Il vettore dei termini noti b
 % Output:    Il vettore soluzione x
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x] = cramer(A,b)
 

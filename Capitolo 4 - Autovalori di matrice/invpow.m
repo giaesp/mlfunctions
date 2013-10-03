@@ -15,7 +15,7 @@
 %            - err = 0 <==> Non si sono verificati errori
 %            - err = 1 <==> Non si è raggiunta la tolleranza richiesta
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [av,iter,err] = invpow(p,A,toll,max_iter)
 

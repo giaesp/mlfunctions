@@ -6,7 +6,7 @@
 % Input:     La matrice A
 % Output:    Gli estremi a,b dell'intervallo contenente tutti gli autovalori
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [a,b] = gersch_abs(A)
 

@@ -11,7 +11,7 @@
 % Output:    Il vettore y contenente la valutazione del polinomio nei punti 
 %            dell'intervallo
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [value] = pievalin(x,f,interv)
 

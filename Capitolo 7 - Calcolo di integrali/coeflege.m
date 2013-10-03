@@ -1,4 +1,4 @@
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [a,b] = coeflege(n)
 

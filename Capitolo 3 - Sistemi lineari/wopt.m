@@ -8,7 +8,7 @@
 %            Il valore m, relativo all'accuratezza richiesta (10^-m)
 % Output:    Il valore ottimale del parametro w
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [w,iter,rsp] = wopt(A,m)
 

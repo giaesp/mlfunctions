@@ -9,7 +9,7 @@
 % Output:    Il vettore soluzione x
 %            Il determinante della matrice A
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,det] = gausspiv(A,b)
 

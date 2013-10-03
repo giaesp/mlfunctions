@@ -18,7 +18,7 @@
 %
 % Prototipo: [A,pivot,det,ier] = factor(A)
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [A,pivot,det,ier] = factor(A)
 

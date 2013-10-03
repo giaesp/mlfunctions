@@ -6,7 +6,7 @@
 % Input:     -
 % Output:    Il minimo numero rappresentabile nella macchina.
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function x = minrep()
 

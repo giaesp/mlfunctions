@@ -15,7 +15,7 @@
 %            - rmode = 2  Calcola la soluzione richiamando trilow() e triup()
 % Output:    Il vettore soluzione x
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x] = choleski(A,b,fmode,rmode)
 

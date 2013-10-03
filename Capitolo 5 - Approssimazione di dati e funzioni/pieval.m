@@ -9,7 +9,7 @@
 %            Il pto t in cui bisogna valutare il polinomio di interpolazione
 % Output:    La valutazione del polinomio di interpolazione nel punto t
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function value = pieval(x,f,t)
 

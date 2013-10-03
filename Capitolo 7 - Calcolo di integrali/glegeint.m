@@ -10,7 +10,7 @@
 % Output:    L'integrale della funzione data in input, val  
 %            Il numero di valutazioni di funzione (chiamate a feval)
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [val,eval] = glegeint(f,a,b,n)
 

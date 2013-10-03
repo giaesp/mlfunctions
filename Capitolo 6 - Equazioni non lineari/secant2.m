@@ -23,7 +23,7 @@
 %                           in quel punto la funzione assume un valore in modulo
 %                           superiore alla tolleranza richiesta
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,convg,iter,err] = secant(f,x1,x2,zero,int_toll,zero_toll,max_iter,v_mode,g_mode)
 

@@ -9,7 +9,7 @@
 %            La matrice triangolare superiore U
 %            Il determinante della matrice A
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [P,L,U,det] = plu(A)
 

@@ -15,7 +15,7 @@
 %            - err = 0 <==> Non si sono verificati errori
 %            - err = 1 <==> Raggiunto il livello massimo
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [AI,eval,lev,it,err] = trapeza(f,a_,b,toll,max_level,graph_mode)
 

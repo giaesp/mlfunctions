@@ -12,7 +12,7 @@
 %            - err = 0 <==> Non si sono verificati errori
 %            - err = 1 <==> Non si è raggiunta la tolleranza richiesta
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [lamb1,iter,err] = maxpow(A,toll,max_iter)
 

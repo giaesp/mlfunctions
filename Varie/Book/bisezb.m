@@ -12,7 +12,7 @@
 %
 % Prototipo: [x,ier] = bisez(a0,b0,f,toll,x)
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [x,ier] = bisez(a0,b0,f,toll)
 

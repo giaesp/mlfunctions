@@ -12,7 +12,7 @@
 %
 % Prototipo:
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [b] = solve(A,pivot,b)
 

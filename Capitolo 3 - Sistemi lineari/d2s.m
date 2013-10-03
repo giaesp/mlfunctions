@@ -16,7 +16,7 @@
 %            Il numero di colonne della matrice A, col
 %            Il determinante della matrice A, det
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [B,J,I,row,col,dt] = d2s(A)
 

@@ -15,7 +15,7 @@
 %            - err = 0 <==> Non si sono verificati errori
 %            - err = 1 <==> Iterazioni impostate insufficienti
 %
-% Esposito Gianluca (N.matr.056/100858)
+
 
 function [val,eval,i,n,err] = gchebyt(f,toll,max_iter)
 

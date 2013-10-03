@@ -3,7 +3,7 @@
 % Costruire il polinomio di grado n = 4 passante per i punti (-4,1245), (-1,33),(0,5),
 % (2,9),(5,1335).
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 clear;
 hold on;

@@ -18,7 +18,7 @@
 %             Il polinomio di interpolazione P
 %             Il grafico del polinomio di interpolazione P
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [A,f,P] = newton(grad,x,f,d,x_beg,x_end)
 eps_value = eeps;

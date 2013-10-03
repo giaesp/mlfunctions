@@ -8,7 +8,7 @@
 %            g_mode = 1 <==> Stampa a video il grafico del polinomio caratteristico
 % Output:    Il polinomio caratteristico p (oggetto inline)
 %
-% Esposito Gianluca (N.Matr.056/100858)
+
 
 function [p] = tds_pc(B,v_mode,g_mode)
 
