@@ -4,7 +4,7 @@ mlfunctions
 Analisi Numerica - MATLAB functions
 
 A distanza di qualche anno pubblico un mio piccolo lavoro, svolto per l'esame di Analisi Numerica, il quale consisteva nell'elaborare una serie di metodi, da utilizzare in MATLAB, per lo svolgimento di problemi matematici.  
-Ecco una panoramica, opportunamente strutturata, dei file presenti nel seguente archivio compresso liberamente scaricabile, ma soggetta alla <a href="http://creativecommons.org/licenses/by-sa/2.5/deed.it">Creative Commons Licence</a>:
+Ecco una panoramica, opportunamente strutturata, dei file pubblicati.
 
 La quasi totalit&agrave; &egrave; commentata e spiegata: troverete all'interno di ciascun file una spiegazione sufficientemente dettagliata. 
  alginst.m  - Installa i metodi seguenti aggiornando le path in Matlab
